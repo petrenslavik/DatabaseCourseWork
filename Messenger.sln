@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messenger", "Messenger\Messenger.csproj", "{D39E8D54-F9B6-4BE8-9028-05EC8607EF10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Messenger", "Messenger\Messenger.csproj", "{D39E8D54-F9B6-4BE8-9028-05EC8607EF10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "Database\Database.csproj", "{33CF8C18-CD69-47D5-A286-F27B4A8333C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D39E8D54-F9B6-4BE8-9028-05EC8607EF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D39E8D54-F9B6-4BE8-9028-05EC8607EF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D39E8D54-F9B6-4BE8-9028-05EC8607EF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33CF8C18-CD69-47D5-A286-F27B4A8333C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CF8C18-CD69-47D5-A286-F27B4A8333C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CF8C18-CD69-47D5-A286-F27B4A8333C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CF8C18-CD69-47D5-A286-F27B4A8333C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
